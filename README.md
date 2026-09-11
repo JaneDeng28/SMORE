@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="SMORE logo" width="220">
+</p>
+
 # SMORE: Single-cell MethylOme Reduction and Embedding
 
 This repository provides the R and C++ implementation of **SMORE** (**S**ingle-cell **M**ethyl**O**me **R**eduction and **E**mbedding), a Bayesian framework for identifying cell populations from single-cell DNA methylation data. SMORE analyzes a preprocessed ordinal methylation matrix, with genomic regions represented by rows and individual cells by columns, and jointly learns a low-dimensional representation, cell-population assignments, and the number of occupied populations.
